@@ -76,7 +76,6 @@
         <h2>¿Cuánto contaminan las bolsas?</h2>
         <p>En este punto, espero que entiendas que, no porque el gobierno prohíba el uso de bolsas plásticas, se está generando un enorme beneficio para el medioambiente. Está claro que por algo se parte, e implica ciertos esfuerzos por parte de la sociedad (Recordemos a Jaime de camino a su casa, mientras se le caían los ingredientes, porque olvidó la bolsa). Sin embargo, reemplazarlas por bolsas de cartón (lo que es muy común en algunos negocios), no es la mejor de las opciones.</p>
         <p>A modo de resumen, ya que seguro te mareaste con tanta información, debes entender que, la implementación de la ley “Chao bolsas plásticas”, trajo consigo beneficios en cuanto a la reducción del uso de estas, lo que, sin duda, beneficia al ambiente. Sin embargo, en reemplazo de estas, se ha impulsado la generación de bolsas con alto contenido plástico, que dañan de igual forma al medioambiente, y se ha impulsado el uso de bolsas de cartón, que como vimos, son igual o más dañinas. La ley es defectuosa ya que provoca que se generen más bolsas de cartón, genera incomodidad a la hora de ir a comprar y el reciclaje de bolsas plásticas es insuficiente.  </p>
-        <img src="GRAFICO 2.png" alt="Consumo de agua">
     </section>
 
 
