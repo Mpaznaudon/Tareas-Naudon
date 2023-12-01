@@ -1,0 +1,78 @@
+body {
+    font-family: 'Open Sans', serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1E8944;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-image: round;
+}
+
+h1, h2, h3 {
+    font-family: 'Bebas Neue', serif;
+}
+
+h1 {
+    color: #fff;
+    font-size: 80px
+}
+
+h2, h3 {
+    color: #716E6C;
+    font-size: 40px;
+}
+
+/* Estilos de secciones específicas */
+#Imagina, #Pero, #Exito, #contaminacion, #impacto, #Solución, #conclusión, #futuro {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #1E8944;
+    border-radius: 8px;
+}
+
+#futuro {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 22px;
+    border: 3px solid #ddd;
+    border-radius: 9px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #1E8944;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
