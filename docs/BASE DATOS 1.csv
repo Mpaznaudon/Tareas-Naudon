@@ -1,0 +1,962 @@
+Index,Country,Scope,Jurisdiction,Type of Law,Product Type,Application
+1,Afghanistan,National,Afghanistan,Ban,Bag,Unknown
+2,Albania,National,Albania,Ban,Bag,Unknown
+3,Algeria,National,Algeria,Other,Bag,Import
+4,Andorra,State,Andorra,Ban,Bag,Unknown
+5,Antigua & Barbuda,National,Antigua & Barbuda,Ban,Bag,"Retail, Manufacture, Distribution, Import, Use"
+6,Argentina,Local,Buenos Aires City,Ban,Bag,Unknown
+7,Argentina,Local,El Bolson,Ban,Bag,Retail
+8,Argentina,Local,El Calafate,Ban,Bag,Unknown
+9,Argentina,State,Buenos Aires Province,Ban,Bag,Retail
+10,Argentina,State,Chubut Province,Ban,Bag,Retail
+11,Argentina,State,Mendoza Province,Ban,Bag,Retail
+12,Aruba,Local,Aruba,Ban,Bag,Retail
+14,Australia,Local,Canberra,Fee,Bag,Unknown
+15,Australia,Local,Coles Bay,Ban,Bag,Unknown
+16,Australia,Local,Fremantle,Ban,Bag,Unknown
+17,Australia,Local,Huskisson,Ban,Bag,Unknown
+18,Australia,Local,Kangaroo Valley,Ban+Fee,Bag,Unknown
+19,Australia,Local,Mogo,Ban,Bag,Unknown
+20,Australia,Local,Oyster Bay,Ban+Fee,Bag,Unknown
+21,Australia,Local,Woorabinda,Ban,Bag,Unknown
+22,Australia,State,Australian Capital Territory,Ban,Bag,Retail
+23,Australia,State,Northern Territory,Ban+Fee,Bag,Unknown
+24,Australia,State,South Australia,Ban,Bag,Unknown
+25,Australia,State,Tasmania,Ban,Bag,Unknown
+26,Austria,State,Austria,Ban,Bag,Retail
+27,Bangladesh,National,Bangladesh,Ban,Bag,Unknown
+28,Barbados,National,Barbados,Ban,Bag,Unknown
+29,Belgium,State,Brussels,Ban,Bag,Unknown
+30,Belgium,State,Wallonia,Ban,Bag,Unknown
+31,Belize,National,Belize,Ban,Bag,Unknown
+32,Benin,National,Benin,Ban,Bag,"Retail, Manufacture, Distribution, Import, Use"
+33,Bhutan,National,Bhutan,Other,Bag,Import
+34,Bolivia,Local,Bolivia,Other,Bag,Unknown
+35,Bosnia & Herzegovina,State,Bosnia & Herzegovina,Fee,Bag,Unknown
+36,Botswana,National,Botswana,Ban+Fee,Bag,"Retail, Manufacture, Import"
+37,Brazil,Local,Espírito Santo,Ban,Bag,Unknown
+38,Brazil,Local,Goiás,Ban,Bag,Unknown
+39,Brazil,Local,Rio de Janeiro,Ban,Bag,Unknown
+40,Brazil,Local,Sao Paulo,Ban,Bag,Unknown
+41,British Virgin Islands,National,British Virgin Islands,Ban,Bag,Unknown
+42,Bulgaria,National,Bulgaria,Other,Bag,"Retail, Producer Tax"
+43,Burkina Faso,National,Burkina Faso,Ban,Bag,"Manufacture, Distribution, Import"
+44,Burundi,National,Burundi,Ban,Bag,"Retail, Manufacture, Distribution, Import, Use"
+45,Cambodia,National,Cambodia,Ban,Bag,Unknown
+46,Cameroon,National,Cameroon,Ban,Bag,"Manufacture, Import"
+47,Canada,Local,Amqui,Fee,Bag,Retail
+48,Canada,Local,Brossard,Ban,Bag,Retail
+49,Canada,Local,Coldwell,Ban,Bag,Unknown
+50,Canada,Local,Deux Montagnes,Ban,Bag,Retail
+51,Canada,Local,Eriksdale,Ban,Bag,Unknown
+52,Canada,Local,Fogo Island,Ban,Bag,Retail
+53,Canada,Local,Hopedale,Ban,Bag,Retail
+54,Canada,Local,Huntingdon,Ban,Bag,Retail
+55,Canada,Local,Leaf Rapids,Ban,Bag,Unknown
+56,Canada,Local,Montreal,Ban,Bag,Unknown
+57,Canada,Local,Nain,Ban,Bag,Retail
+58,Canada,Local,Prince Edward Island,Ban,Bag,Retail
+59,Canada,Local,Qualicum Beach,Ban,Bag,Unknown
+60,Canada,Local,Thompson,Ban,Bag,Retail
+61,Canada,Local,Tolfino,Ban,Bag,Unknown
+63,Canada,Local,Victoria,Ban+Fee,Bag,Unknown
+64,Canada,Local,Wood Buffalo,Ban,Bag,Unknown
+65,Canada,National,Canada,Ban,Microbead,"Retail, Manufacture, Import"
+66,Canada,Province,Montreal,Ban,Microbead,Retail
+67,Canada,Province,Quebec,Ban,Microbead,Retail
+68,Canada,Regional,Montreal,ban,EPS,Retail
+69,Canada,State,Manitoba Province,Ban,Bag,Unknown
+70,Canada,State,Northwest Territories,Fee,Bag,Unknown
+71,Canada,State,Ontario,Ban,Microbead,Manufacture
+72,Canada,State,Ontario,Fee,Bag,Retail
+73,Cape Verde,National,Cape Verde,Ban,Bag,"Manufacture, Distribution, Import, Use"
+74,Cayman Islands,Local,Cayman Islands (Guernsey and Jersey),Fee,Bag,Unknown
+75,Chad,National,Chad,Ban,Bag,Import
+76,Chad,State,"N’djamena, Chad",Ban,Bag,Import
+77,Chile,Local,Chile,Ban,Bag,Retail
+78,Chile,Local,Chile Chico,Ban,Bag,Unknown
+79,Chile,Local,Pucón,Ban,Bag,Unknown
+80,Chile,Local,Punta Arenas,Ban,Bag,Unknown
+81,China,National,China,Fee,Bag,Retail
+82,China,National,Hong Kong,Fee,Bag,Retail
+83,Colombia,National,Colombia,Ban+Fee,Bag,Retail
+84,Congo,National,Congo,Ban+Fee,Bag,Retail
+85,Cote d'Ivoire,National,Cote d'Ivoire,Ban,Bag,Unknown
+86,Croatia,National,Croatia,Fee,Bag,Unknown
+87,Cyprus,National,Cyprus,Ban,Bag,Unknown
+88,Czech Republic,National,Czech Republic,Ban,Bag,Retail
+89,Denmark,National,Denmark,Fee,Bag,Retail
+90,Djibouti,National,Djibouti,Ban,Bag,Unknown
+91,Ecuador,Local,Galapagos Island,Ban,Bag,Unknown
+92,Egypt,National,Hurghada,Ban,Bag,"Retail, Restaurant"
+93,Eritrea,National,Eritrea,Ban,Bag,"Retail, Manufacture, Distribution, Import"
+94,Estonia,National,Estonia,Fee,Bag,Unknown
+95,Ethiopia,National,Ethiopia,Ban,Bag,"Manufacture, Import"
+96,European Union,Regional,European Union,Comprehensive,Multiple,
+97,European Union,Regional,European Union,Other,Bag,
+98,Fiji,National,Fiji,Fee,Bag,Unknown
+99,Finland,National,Finland,Ban,Bag,Unknown
+100,France,National,France,Ban,Bag,Unknown
+101,France,National,France,Ban,Microbead,Retail
+103,France,National,Mayotte,Ban,Bag,Unknown
+104,France,National,Saint Pierre and Miquelon,Ban,Bag,Unknown
+105,Gabon,National,Gabon,Ban,Bag,Unknown
+106,Gambia,National,Gambia,Ban,Bag,"Retail, Import, Use"
+107,Georgia,National,Georgia,Ban,Bag,Unknown
+108,Germany,National,Germany,Ban,Bag,Unknown
+109,Gibraltar,National,Gibraltar,Ban,Bag,Unknown
+110,Greece,National,Greece,Ban,Bag,Unknown
+111,Grenada,National,Grenada,Ban,Bag,Unknown
+112,Guatemala,Local,San Pedro La Lagun,Ban,Bag,Unknown
+113,Guernsey,National,Guernsey,Ban,Bag,Unknown
+114,Guinea-Bissau,National,Guinea-Bissau,Ban,Bag,Unknown
+115,Haiti,National,Haiti,Ban,Bag,"Retail, Manufacture, Distribution, Import"
+116,Honduras,Local,Guanaja,Ban,Bag,Unknown
+117,Honduras,Local,Roatan,Ban,Bag,Unknown
+118,Honduras,Local,Utila,Ban,Bag,Unknown
+119,Hungary,National,Hungary,Ban,Bag,Unknown
+120,Iceland,National,Iceland,Ban,Bag,"Manufacture, Import"
+121,India,Local,Chandigarh,Ban,Bag,Unknown
+122,India,Local,Dharamsala,Ban,Bag,Unknown
+123,India,Local,Kanyakumari,Ban,Bag,Unknown
+124,India,Local,Mumbai,Ban,Bag,Unknown
+125,India,Local,Thrissur,Ban,Bag,Unknown
+126,India,National,India,Ban,Bag,Unknown
+127,India,State,Delhi,Ban,Bag,Unknown
+128,India,State,Goa,Ban,Bag,Unknown
+129,India,State,Himachal Pradesh,Ban,Bag,Unknown
+130,India,State,Karnataka,Ban,Bag,Unknown
+131,India,State,Maharashtra,Ban,Bag,Unknown
+132,India,State,Sikkim,Ban,Bag,Unknown
+133,India,State,Tamil Nadu,Ban,Bag,Unknown
+134,Indonesia,Local,Badung,Fee,Bag,Retailer
+135,Indonesia,Local,Balikpapan,Fee,Bag,Retailer
+136,Indonesia,Local,Banjarmasin,Ban,Bag,Retailer
+137,Indonesia,Local,Bogar,Ban,Bag,Retailer
+138,Indonesia,Local,Jakarta,Fee,Bag,Retailer
+139,Indonesia,Local,Padang,Fee,Bag,Retailer
+140,Indonesia,State,Bali,Ban,Bag,Retailer
+141,Ireland,National,Ireland,Fee,Bag,Unknown
+142,Israel,National,Israel,Ban+Fee,Bag,Retail
+143,Italy,National,Italy,Ban,Bag,Unknown
+144,Italy,National,Italy,Ban,Microbead,Retail
+145,Jamaica,National,Jamaica,Ban,Bag,"Manufacture, Use"
+146,Jordan,National,Jordan,Ban,Bag,Unknown
+147,Kenya,National,Kenya,Ban+Fee,Bag,Unknown
+148,Kiribati,National,Kiribati,Fee,Bag,Unknown
+149,Kyrgyzstan,National,Kyrgyzstan,Ban,Bag,Unknown
+150,Latvia,National,Latvia,Ban+Fee,Bag,"Retail, Manufacture"
+151,Lebanon,National,Lebanon,Ban,Bag,Unknown
+152,Lesotho,National,Lesotho,Ban,Bag,Unknown
+153,Lithuania,National,Lithuania,Ban+Fee,Bag,Unknown
+154,Luxembourg,National,Luxembourg,Ban,Bag,Distribution
+155,Macedonia,National,Macedonia,Fee,Bag,Unknown
+156,Madagascar,National,Madagascar,Ban,Bag,Unknown
+157,Malawi,National,Malawi,Ban,Bag,Unknown
+158,Malaysia,Local,Penang,Fee,Bag,Unknown
+159,Malaysia,Local,Selangor,Ban,Bag,Unknown
+161,Maldives,National,Maldives,Ban,Bag,Unknown
+162,Mali,National,Mali,Ban,Bag,Unknown
+163,Malta,National,Malta,Fee,Bag,Unknown
+164,Marshall Islands,Territory,Marshall Islands,Ban,Bag,"Retail, Manufacture, Distribution, Import"
+165,Mauritania,National,Mauritania,Ban,Bag,Unknown
+166,Mauritius,National,Mauritius,Ban,Bag,"Retail, Manufacture, Distribution, Import"
+167,Mexico,Local,Mexico City,Ban,EPS,Retail
+168,Mexico,Local,"Mexico City, Mexico",Ban,Bag,Unknown
+169,Micronesia,National,Micronesia,Ban,Bag,Unknown
+170,Moldova,National,Moldova,Ban,Bag,Retail
+171,Monaco,National,Monaco,Ban,Bag,Retail
+172,Mongolia,National,Mongolia,Ban,Bag,"Retail, Manufacture, Import, Use"
+173,Morocco,National,Morocco,Ban,Bag,Unknown
+174,Mozambique,National,Mozambique,Ban,Bag,Unknown
+175,Myanmar,National,Mandalay,Ban,Bag,Unknown
+176,Myanmar,National,Naypyitaw,Ban,Bag,Unknown
+177,Myanmar,National,Yangon,Ban,Bag,Unknown
+178,Namibia,National,Namibia,Ban,Bag,Retail
+179,Nepal,National,Nepal,Ban,Bag,Retail
+180,Netherlands,National,Netherlands,Ban,Bag,Retail
+181,New Zealand,National,New Zealand,Ban,Bag,"Retail, Restaurant"
+182,New Zealand,National,New Zealand,Ban,Microbead,"Retail, Manufacture"
+183,New Zealand,National,New Zealand 2,Ban,Bag,Unknown
+184,Niger,National,Niger,Ban,Bag,Unknown
+185,Nigeria,National,Nigeria,Ban,Bag,Unknown
+186,Niue,National,Niue,Ban,Bag,Unknown
+187,Norway,National,Norway,Other,Bag,Manufacture
+188,Oman,National,Oman,Ban,Bag,Unknown
+189,Pakistan,National,Islamabad Capital Territory,Ban,Bag,Unknown
+190,Pakistan,National,Khyber Pakhtunkhwa Province,Ban,Bag,Unknown
+191,Pakistan,National,Punjab,Ban,Bag,Unknown
+192,Pakistan,National,Sindh,Ban,Bag,Unknown
+193,Palau,National,Palau,Ban,Bag,Unknown
+194,Panama,National,Panama,Ban,Bag,"Retail, Distribution"
+195,Papua New Guinea,National,Papua New Guinea,Ban,Bag,Unknown
+196,Paraguay,Local,Paraguay,Ban,Bag,Unknown
+197,Philippines,Local,Albay,Ban,Bag,Unknown
+198,Philippines,Local,Antipolo,Ban,Bag,Unknown
+199,Philippines,Local,Asingan,Ban,Bag,Unknown
+200,Philippines,Local,Batangas,Ban,Bag,Unknown
+201,Philippines,Local,Binalonan,Ban,Bag,Unknown
+202,Philippines,Local,Binan,Ban,Bag,Unknown
+203,Philippines,Local,Bontoc,Ban,Bag,Unknown
+204,Philippines,Local,Bulacan,Ban,Bag,Unknown
+205,Philippines,Local,Burgos,Ban,Bag,Unknown
+206,Philippines,Local,Calamba,Ban,Bag,Unknown
+207,Philippines,Local,Calapan,Ban,Bag,Unknown
+208,Philippines,Local,Caloocan,Ban,Bag,Unknown
+209,Philippines,Local,Carmona,Other,Bag,Unknown
+210,Philippines,Local,Cavite Province,Ban,Bag,Unknown
+211,Philippines,Local,Davao City,Ban,Bag,Unknown
+212,Philippines,Local,Gubat,Ban,Bag,Unknown
+213,Philippines,Local,Iloilo,Ban,Bag,Unknown
+214,Philippines,Local,Imus,Ban,Bag,Unknown
+215,Philippines,Local,Laoac,Ban,Bag,Unknown
+216,Philippines,Local,Laoag City,Ban,Bag,Unknown
+217,Philippines,Local,Las Piñas,Ban,Bag,"Retail, Restaurant"
+218,Philippines,Local,Lipa City,Ban,Bag,Unknown
+219,Philippines,Local,Los Banos,Ban,Bag,Unknown
+220,Philippines,Local,Makati,Ban,Bag,"Retail, Distribution, Use"
+221,Philippines,Local,Malabon,Ban,Bag,Unknown
+222,Philippines,Local,Mandaluyong,Ban,Bag,Unknown
+223,Philippines,Local,Mandaue,Ban,Bag,Unknown
+224,Philippines,Local,Manila,Ban,Bag,Unknown
+225,Philippines,Local,Marikina,Ban,Bag,Unknown
+226,Philippines,Local,Muntinlupa,Ban,Bag,Unknown
+227,Philippines,Local,Negros Occidental,Ban,Bag,Unknown
+228,Philippines,Local,Pasay,Ban,Bag,Unknown
+229,Philippines,Local,Pasig,Ban,Bag,Unknown
+230,Philippines,Local,Quezon City,Ban+Fee,Bag,Unknown
+231,Philippines,Local,San Fernando,Fee,Bag,Unknown
+232,Philippines,Local,Santa Barbara,Ban,Bag,Unknown
+233,Philippines,Local,Taytay,Ban,Bag,Unknown
+234,Philippines,Local,Villasis,Ban,Bag,Unknown
+235,Poland,National,Poland,Fee,Bag,Retail
+236,Portugal,National,Portugal,Other,Bag,"Manufacture, Import"
+237,Republic of Korea,National,Republic of Korea,Ban,Microbead,"Retail, Manufacture"
+238,Romania,National,Romania,Fee,Bag,Unknown
+239,Rwanda,National,Rwanda,Ban,Bag,"Retail, Manufacture, Import, Use"
+240,Saint Vincent and the Grenadines,National,Saint Vincent and the Grenadines,Ban,Bag,Unknown
+241,Saudi Arabia,National,Saudi Arabia,Ban,Bag,Unknown
+242,Senegal,National,Senegal,Ban,Bag,Unknown
+243,Serbia,National,Serbia,Ban+Fee,Bag,Unknown
+244,Seychelles,National,Seychelles,Ban,Bag,Unknown
+245,Singapore,Local,Singapore,Ban,Bag,Unknown
+246,Slovakia,National,Slovakia,Fee,Bag,Unknown
+247,Slovenia,National,Slovenia,Fee,Bag,Unknown
+248,Somalia,State,Somaliland,Ban,Bag,"Import, Use"
+249,Somalia,State,"Territories controlled by Al-Shabab, Somalia",Ban,Bag,Use
+250,South Africa,Local,Capre Town,Ban,Bag,Unknown
+251,South Africa,National,South Africa,Ban+Fee,Bag,Unknown
+252,South Korea,National,South Korea,Ban,Bag,"Retail, Restaurant"
+253,Spain,Local,Andalucia,Fee,Bag,Retail
+254,Spain,National,Spain,Ban,Bag,Retail
+255,Sri Lanka,National,Sri Lanka,Ban,Bag,Unknown
+256,Sweden,National,Sweden,Ban,Bag,Retail
+257,Sweden,National,Sweden,Fee,Bag,Retail
+258,Switzerland,National,Switzerland,Fee,Bag,Unknown
+259,Taiwan,National,Taiwan,Ban,Microbead,"Retail, Manufacture, Import"
+260,Taiwan,National,Taiwan,Ban+Fee,Bag,Retail
+261,Taiwan,National,Taiwan,Comprehensive,Multiple,
+262,Tanzania,Local,Zanzibar,Ban,Bag,Unknown
+263,Tanzania,National,Tanzania,Ban,Bag,"Retail, Manufacture, Import, Use"
+264,Thailand,National,Thailand,Ban,Bag,Unknown
+265,Togo,National,Togo,Ban,Bag,Unknown
+266,Tunisia,National,Tunisia,Ban,Bag,Unknown
+267,Turkey,Local,Kadıköy,Ban,Bag,Unknown
+268,Turkey,National,Turkey,Ban,Bag,Unknown
+269,Turks and Caicos Islands,National,Turks & Caicos Islands,Ban,Bag,Unknown
+270,Uganda,National,Uganda,Ban,Bag,"Manufacture, Use"
+271,United Arab Emirates,National,United Arab Emirates,Ban,Bag,Manufacture
+272,United Kingdom,Local,Hay-on-Wye,Ban,Bag,Unknown
+273,United Kingdom,Local,Llandysilio,Ban,Bag,Unknown
+274,United Kingdom,National,England,Ban,Microbead,"Retail, Manufacture"
+275,United Kingdom,National,England,Fee,Bag,Retail
+276,United Kingdom,National,Northern Ireland,Ban,Bag,Retail
+277,United Kingdom,National,Northern Ireland,Ban,Microbead,"Retail, Manufacture"
+278,United Kingdom,National,Scotland,Ban,Microbead,"Retail, Manufacture"
+279,United Kingdom,National,Scotland,Fee,Bag,Retail
+280,United Kingdom,National,Wales,Ban,Microbead,"Retail, Manufacture"
+281,United Kingdom,National,Wales,Fee,Bag,Retail
+282,United States,County,Alameda County,Ban,All Polystyrene,Restaurant
+283,United States,County,Alameda County (unincorp areas + 14 cities),Ban+Fee,Bag,Retail
+284,United States,County,Albany County,Ban,EPS,Restaurant
+285,United States,County,Beaufort County,Ban,Bag,Retail
+286,United States,County,Hawai'i County,Ban+Fee,Bag,Retail
+287,United States,County,Honolulu County,Ban+Fee,Bag,Retail
+288,United States,County,Kauai County,Ban,Bag,Retail
+289,United States,County,Los Angeles County,Ban,EPS,Restaurant
+290,United States,County,Marin County,Ban,EPS,Restaurant
+291,United States,County,Marshall County,Ban,Bag,Retail
+292,United States,County,Maui County,Ban,Bag,Retail
+293,United States,County,Mendocino County,Ban,EPS,Restaurant
+294,United States,County,Monterey County,Ban,All Polystyrene,Restaurant
+295,United States,County,Monterey County,Ban+Fee,Bag,Retail
+296,United States,County,Montgomery County,Ban,Bag,Retail
+297,United States,County,Orange County,Ban,EPS,Government
+298,United States,County,San Juan County,Ban,Bag,Retail
+299,United States,County,San Mateo County,Ban,All Polystyrene,Restaurant
+300,United States,County,San Mateo County,Ban+Fee,Bag,Retail
+301,United States,County,Santa Clara County,Ban,EPS,"Restaurant, Retail"
+302,United States,County,Santa Cruz County,Ban,EPS,Restaurant
+303,United States,County,Sonoma County,Ban,EPS,"Restaurant, Retail"
+304,United States,County,Suffolk County,Fee,Bag,Retail
+305,United States,County,Thurston County,Ban+Fee,Bag,Retail
+306,United States,County,Ulster County,Ban,Bag,Retail
+307,United States,County,Ventura County,Ban,EPS,Restaurant
+308,United States,Local,Abington,Ban,EPS,Restaurant
+309,United States,Local,Acton,Ban,Bag,"Retail, Restaurant"
+310,United States,Local,Adams,Ban,Bag,Retail
+311,United States,Local,Alameda,Ban,All Polystyrene,Restaurant
+312,United States,Local,Alameda,Ban+Fee,Bag,Retail
+314,United States,Local,Albany,Ban,EPS,Government
+315,United States,Local,Albany,Ban+Fee,Bag,Retail
+316,United States,Local,Albuquerque,Ban+Fee,Bag,Retail
+317,United States,Local,Aliso Viejo,Ban,EPS,"Restaurant, Retail"
+318,United States,Local,American Canyon,Ban+Fee,Bag,Retail
+319,United States,Local,Amesbury,Ban,Bag,"Retail, Restaurant"
+320,United States,Local,Amherst,Ban,Bag,"Retail, Restaurant"
+321,United States,Local,Amherst,Ban,EPS,Restaurant
+322,United States,Local,Andover,Ban,All Polystyrene,Restaurant
+323,United States,Local,Andover,Ban,Bag,"Retail, Restaurant"
+324,United States,Local,Andover,ban,EPS,Restaurant
+325,United States,Local,Aquinnah,Ban,Bag,"Retail, Restaurant"
+326,United States,Local,Arcadia Lakes,Ban,Bag,Retail
+327,United States,Local,Arcata,Ban,EPS,"Restaurant, Retail"
+328,United States,Local,Arcata,Ban+Fee,Bag,Retail
+329,United States,Local,Arlington,Ban,Bag,"Retail, Restaurant"
+330,United States,Local,Arlington,ban,EPS,"Restaurant, Retail"
+331,United States,Local,Arroyo Grande,Ban,EPS,Restaurant
+332,United States,Local,Arroyo Grande,Ban+Fee,Bag,Retail
+333,United States,Local,Ashland,Ban,Bag,"Retail, Restaurant"
+334,United States,Local,Ashland,Ban+Fee,Bag,Retail
+335,United States,Local,Aspen,Ban+Fee,Bag,Retail
+336,United States,Local,Atascadero,Ban+Fee,Bag,Retail
+337,United States,Local,Athol,Ban,Bag,Retail
+338,United States,Local,Attleboro,Ban,Bag,"Retail, Restaurant"
+339,United States,Local,Austin,Ban,Bag,Retail
+340,United States,Local,Avalon,Ban,Bag,Retail
+341,United States,Local,Avalon,Ban,EPS,Restaurant
+342,United States,Local,Avon,Ban+Fee,Bag,Retail
+343,United States,Local,Bainbridge Island,Ban+Fee,Bag,Retail
+344,United States,Local,Bal Harbour,Ban,All Polystyrene,Restaurant
+345,United States,Local,Bar Harbor,Ban,Bag,Retail
+346,United States,Local,Barnstable,Ban,Bag,"Retail, Restaurant"
+347,United States,Local,Barrington,Ban,Bag,Retail
+348,United States,Local,Basalt*,Fee,Bag,Retail
+349,United States,Local,Bath,Ban+Fee,Bag,Retail
+350,United States,Local,Bay Harbor Islands,Ban,EPS,Restaurant
+351,United States,Local,Beach Haven,Ban,Bag,Retail
+352,United States,Local,Beaufort City,Ban,Bag,Retail
+353,United States,Local,Becket,Ban,Bag,Retail
+354,United States,Local,Becket,ban,Bag,Retail
+355,United States,Local,Bedford,Ban,Bag,"Retail, Restaurant"
+356,United States,Local,Bedford,Ban+Fee,Bag,Retail
+357,United States,Local,Belfast,Ban,Bag,Retail
+358,United States,Local,Bellingham,Ban+Fee,Bag,Retail
+359,United States,Local,Belmar,Ban,Bag,Retail
+360,United States,Local,Belmont,Ban,Bag,"Retail, Restaurant"
+361,United States,Local,Belmont,Ban,EPS,Restaurant
+362,United States,Local,Belmont,Ban+Fee,Bag,Retail
+363,United States,Local,Belvedere,Ban+Fee,Bag,Retail
+364,United States,Local,Bend City,Ban+Fee,Bag,Retail
+365,United States,Local,Berkelely,Ban+Fee,Bag,Retail
+366,United States,Local,Berkeley,Ban,EPS,Restaurant
+367,United States,Local,Berlin,ban,Bag,Retail
+368,United States,Local,Bethel,Ban,Bag,Retail
+369,United States,Local,Beverly,Ban,Bag,"Retail, Restaurant"
+370,United States,Local,Bexley,Ban,Bag,Retail
+371,United States,Local,Billerica,ban,Bag,Retail
+372,United States,Local,Bisbee*,Ban+Fee,Bag,Retail
+373,United States,Local,Blue Hill,Ban,Bag,Retail
+374,United States,Local,Bluffton,Ban,Bag,Retail
+375,United States,Local,Boston,Ban+Fee,Bag,"Retail, Restaurant"
+376,United States,Local,Boulder,Ban+Fee,Bag,Retail
+377,United States,Local,Bourne,Ban,Bag,"Retail, Restaurant"
+378,United States,Local,Bradley Beach,Ban,Bag,Retail
+379,United States,Local,Brattleboro,Ban,Bag,Retail
+380,United States,Local,Breckenridge,Ban+Fee,Bag,Retail
+381,United States,Local,Bremerton,Ban,Bag,Retail
+382,United States,Local,Brewster,ban,Bag,Retail
+383,United States,Local,Bridgewater,Ban,Bag,Retail
+384,United States,Local,Brigantine,Ban,Bag,Retail
+385,United States,Local,Brisbane,Ban,EPS,Restaurant
+386,United States,Local,Brisbane,Ban+Fee,Bag,Retail
+387,United States,Local,Bristol,Ban,Bag,Retail
+388,United States,Local,Brookline,Ban,Bag,"Retail, Restaurant"
+389,United States,Local,Brookline,Ban,EPS,Restaurant
+390,United States,Local,Brownsville,Fee,Bag,Retail
+391,United States,Local,Brunswick,Ban,Bag,Retail
+392,United States,Local,Brunswick,Ban,EPS,Restaurant
+393,United States,Local,Buckland,ban,Bag,Retail
+394,United States,Local,Buckland,ban,EPS,Restaurant
+395,United States,Local,Burlingame,Ban,EPS,Restaurant
+396,United States,Local,Burlingame,Ban+Fee,Bag,Retail
+397,United States,Local,Burlington,Ban,Bag,"Retail, Restaurant"
+398,United States,Local,Calabasas,Ban,EPS,Restaurant
+399,United States,Local,Calabasas,Ban+Fee,Bag,Retail
+400,United States,Local,Calistoga,Ban+Fee,Bag,Retail
+401,United States,Local,Cambridge,Ban,EPS,Restaurant
+402,United States,Local,Cambridge,ban/fee hybrid,Bag,Retail
+403,United States,Local,Cambridge,Ban+Fee,Bag,"Retail, Restaurant"
+404,United States,Local,Camden,Ban,Bag,Retail
+405,United States,Local,Campbell,Ban,EPS,"Restaurant, Retail"
+406,United States,Local,Campbell,Ban+Fee,Bag,Retail
+407,United States,Local,Canton,Ban,Bag,"Retail, Restaurant"
+408,United States,Local,Cape Elizabeth,Ban,Bag,Retail
+409,United States,Local,Capitola,Ban,All Polystyrene,Restaurant
+410,United States,Local,Capitola,Ban+Fee,Bag,Retail
+411,United States,Local,Carbondale,Ban+Fee,Bag,Retail
+412,United States,Local,Carmel,Ban,All Polystyrene,"Restaurant, Retail"
+414,United States,Local,Carmel-by-the-Sea,Ban,Bag,Retail
+415,United States,Local,Carpenteria,Ban,EPS,Restaurant
+416,United States,Local,Carpinteria,Ban,Bag,Retail
+417,United States,Local,Cathedral City,Ban+Fee,Bag,Retail
+418,United States,Local,Charleston,Ban,Bag,Retail
+419,United States,Local,Chatham,Ban,Bag,"Retail, Restaurant"
+420,United States,Local,Chelmsford,Ban,EPS,Restaurant
+421,United States,Local,Chicago,Fee,Bag,Retail
+422,United States,Local,Chico,Ban+Fee,Bag,Retail
+423,United States,Local,Chilmark,Ban,Bag,"Retail, Restaurant"
+424,United States,Local,Cloverdale,Ban+Fee,Bag,Retail
+425,United States,Local,Cohasset,Ban,Bag,"Retail, Restaurant"
+426,United States,Local,Colma,Ban,EPS,Restaurant
+427,United States,Local,Colma,Ban+Fee,Bag,Retail
+428,United States,Local,Concord,Ban,All Polystyrene,"Restaurant, Retail"
+429,United States,Local,Concord,Ban,Bag,Restaurant
+430,United States,Local,Concord,Ban,Bag,Retail
+431,United States,Local,Coral Gables,Ban,EPS,Restaurant
+432,United States,Local,Coral Gables,Ban+Fee,Bag,Retail
+433,United States,Local,Cordova,Ban,Bag,Retail
+434,United States,Local,Corte Madera,Ban+Fee,Bag,Retail
+435,United States,Local,Corvallis,Ban+Fee,Bag,Retail
+436,United States,Local,Cotati,Ban+Fee,Bag,Retail
+437,United States,Local,Crested Butte,Ban+Fee,Bag,Retail
+438,United States,Local,Culver City,Ban,All Polystyrene,Restaurant
+439,United States,Local,Culver City,Ban+Fee,Bag,Retail
+440,United States,Local,Cupertino,Ban,All Polystyrene,Restaurant
+441,United States,Local,Cupertino,Ban+Fee,Bag,Retail
+442,United States,Local,Currituck County,Ban,Bag,Retail
+443,United States,Local,Cuyahoga County,Ban,Bag,Retail
+444,United States,Local,Dallas,Fee,Bag,Retail
+445,United States,Local,Dalton,Ban,Bag,"Retail, Restaurant"
+446,United States,Local,Daly City,Ban,EPS,Restaurant
+447,United States,Local,Daly City,Ban+Fee,Bag,Retail
+448,United States,Local,Damariscotta,Ban,Bag,Retail
+449,United States,Local,Dana Point,Ban,Bag,Retail
+450,United States,Local,Dana Point,Ban,EPS,Restaurant
+451,United States,Local,Danvers,Ban,Bag,"Retail, Restaurant"
+452,United States,Local,Danville,Ban,Bag,Retail
+453,United States,Local,Dare County,Ban,Bag,Retail
+454,United States,Local,Dartmouth,Ban,Bag,Retail
+455,United States,Local,Davis,Ban,EPS,Restaurant
+456,United States,Local,Davis,Ban+Fee,Bag,"Retail, Restaurant"
+458,United States,Local,Dedham,ban,Bag,Retail
+459,United States,Local,Del Mar,Ban+Fee,Bag,Retail
+460,United States,Local,Del Ray Oaks,Ban,EPS,Restaurant
+462,United States,Local,Dennis,Ban,Bag,"Retail, Restaurant"
+463,United States,Local,Dennis,Ban,EPS,Restaurant
+464,United States,Local,Desert Hot Springs,Ban+Fee,Bag,Retail
+465,United States,Local,Dover,ban,Bag,Retail
+466,United States,Local,Dublin,Ban+Fee,Bag,Retail
+467,United States,Local,Durango*,Ban+Fee,Bag,Retail
+468,United States,Local,Duxbury,ban,Bag,Retail
+469,United States,Local,Duxbury,Ban,Bag,"Retail, Restaurant"
+470,United States,Local,East Hampton,Ban,Bag,Retail
+471,United States,Local,East Hampton,Ban,Bag,Retail
+472,United States,Local,East Palo Alto,Ban+Fee,Bag,Retail
+473,United States,Local,Eastham,ban,Bag,"Retail, Restaurant"
+474,United States,Local,Edgartown,Ban,Bag,"Retail, restaurant"
+475,United States,Local,Edmonds,Ban,Bag,Retail
+476,United States,Local,El Cerrito,Ban,All Polystyrene,Restaurant
+477,United States,Local,El Cerrito,Ban+Fee,Bag,Retail
+478,United States,Local,Ellensburg,Ban+Fee,Bag,Retail
+479,United States,Local,Emeryville,Ban,EPS,Restaurant
+480,United States,Local,Emeryville,Ban+Fee,Bag,Retail
+481,United States,Local,Encinitas,Ban,EPS,Restaurant
+482,United States,Local,Encinitas,Ban+Fee,Bag,Retail
+483,United States,Local,Eugene,Ban+Fee,Bag,Retail
+484,United States,Local,Evanston,Fee,Bag,Retail
+485,United States,Local,Everett,Ban+Fee,Bag,Retail
+486,United States,Local,Fairbanks*,Fee,Bag,Retail
+487,United States,Local,Fairfax,Ban,Bag,Retail
+488,United States,Local,Fairfax,Ban,EPS,Restaurant
+489,United States,Local,Falmouth,Ban,Bag,"Retail, restaurant"
+490,United States,Local,Falmouth,Fee,Bag,Retail
+491,United States,Local,Fayetteville,ban,EPS,Retail
+492,United States,Local,Folly Beach,Ban,Bag,Retail
+493,United States,Local,Forest Grove,Ban+Fee,Bag,Retail
+494,United States,Local,Fort Bragg,Ban,All Polystyrene,Restaurant
+495,United States,Local,Fort Bragg,Ban+Fee,Bag,Retail
+496,United States,Local,Fort Collins,Ban+Fee,Bag,Retail
+499,United States,Local,Fort Stockton,Ban+Fee,Bag,Retail
+500,United States,Local,Foster City,Ban,All Polystyrene,Restaurant
+501,United States,Local,Foster City,Ban+Fee,Bag,Retail
+502,United States,Local,Framingham,Ban,Bag,Retail
+503,United States,Local,Franklin,ban,Bag,Retail
+504,United States,Local,Freeport,Ban,Bag,Restaurant
+505,United States,Local,Freeport,Ban+Fee,Bag,Retail
+506,United States,Local,Freer,Ban+Fee,Bag,Retail
+507,United States,Local,Fremont,Ban,EPS,Restaurant
+508,United States,Local,Fremont,Ban+Fee,Bag,Retail
+509,United States,Local,Friday Harbor,Ban,Bag,Retail
+510,United States,Local,Gig Harbor,Ban,Bag,Retail
+511,United States,Local,Glen Cove,Ban,All Polystyrene,Restaurant
+512,United States,Local,Glendale,Ban+Fee,Bag,Retail
+513,United States,Local,Gloucester,Ban,All Polystyrene,Restaurant
+514,United States,Local,Gloucester,Ban,Bag,"Retail, restaurant"
+515,United States,Local,Gloucester,ban,EPS,Restaurant
+516,United States,Local,Gonzales,Ban,All Polystyrene,Restaurant
+517,United States,Local,Gonzales,Ban+Fee,Bag,Retail
+518,United States,Local,Grafton,Ban,Bag,"Retail, restaurant"
+519,United States,Local,Grafton,ban,EPS,Restaurant
+520,United States,Local,Grass Valley,Ban,Bag,Retail
+521,United States,Local,Great Barrington,Ban,Bag,Retail
+522,United States,Local,Great Barrington,Ban,EPS,"Retail, Restaurant"
+523,United States,Local,Greenfield,Ban,Bag,"Restaurant, Retail"
+524,United States,Local,Greenfield,Ban,EPS,Restaurant
+525,United States,Local,Greenfield,Ban+Fee,Bag,Retail
+526,United States,Local,Greenfield,Ban+Fee,Bag,"Retail, restaurant"
+527,United States,Local,Greenwich,Ban,Bag,Retail
+528,United States,Local,Grover Beach,Ban,EPS,Restaurant
+529,United States,Local,Grover Beach,Ban+Fee,Bag,Retail
+530,United States,Local,Guilford,ban,bag,Retail
+532,United States,Local,Half Moon Bay,Ban,EPS,Restaurant
+533,United States,Local,Half Moon Bay,Ban+Fee,Bag,Retail
+534,United States,Local,Halifax,ban,Bag,Retail
+535,United States,Local,Hamden,Ban,Bag,Retail
+536,United States,Local,Hamilton,Ban,Bag,"Retail, Restaurant"
+537,United States,Local,Hamilton,Ban,EPS,Restaurant
+538,United States,Local,Hanson,ban,Bag,Retail
+539,United States,Local,Harvey Cedars,Ban,Bag,Retail
+540,United States,Local,Harwich,ban,Bag,Retail
+541,United States,Local,Harwich,Ban,Bag,"Retail, Restaurant"
+542,United States,Local,Hastings-on-Hudson,Ban,Bag,Retail
+543,United States,Local,Haverhill,Ban+Fee,Bag,"Retail, Restaurant"
+544,United States,Local,Hawaii,Ban,EPS,"Restaurant, Retail"
+545,United States,Local,Hayward,Ban,EPS,Restaurant
+546,United States,Local,Hayward,Ban+Fee,Bag,Retail
+547,United States,Local,Healdsburg,Ban+Fee,Bag,Retail
+548,United States,Local,Hercules,Ban,All Polystyrene,Restaurant
+549,United States,Local,Hercules,Ban+Fee,Bag,Retail
+550,United States,Local,Hermosa Beach,Ban,EPS,Government
+551,United States,Local,Hermosa Beach,Ban+Fee,Bag,Retail
+552,United States,Local,Hilton Head,Ban,Bag,Retail
+553,United States,Local,Hingham,Ban,Bag,"Retail, Restaurant"
+554,United States,Local,Hoboken,Ban+Fee,Bag,Retail
+555,United States,Local,Hollywood,Ban,All Polystyrene,Restaurant
+557,United States,Local,Homer*,Ban,Bag,Retail
+558,United States,Local,Hood River,Ban+Fee,Bag,Retail
+559,United States,Local,Hooper Bay,Ban,Bag,Retail
+560,United States,Local,Hopkinton,Ban,Bag,Retail
+561,United States,Local,Hudson,ban,Bag,Retail
+562,United States,Local,Hull,Ban,Bag,Retail
+563,United States,Local,Huntington Beach,Ban,EPS,Restaurant
+564,United States,Local,Huntington Beach,Ban+Fee,Bag,Retail
+565,United States,Local,Hyde County,Ban,Bag,Retail
+566,United States,Local,Imperial Beach,Ban,EPS,Restaurant
+567,United States,Local,Indio,Ban+Fee,Bag,Retail
+568,United States,Local,Ipswich,Ban,Bag,Retail
+569,United States,Local,Ipswich,Ban,EPS,Restaurant
+570,United States,Local,Isle of Palms,Ban,Bag,Retail
+571,United States,Local,Issaquah,Ban,EPS,Restaurant
+572,United States,Local,Issaquah,Ban+Fee,Bag,Retail
+573,United States,Local,Jackson,Ban+Fee,Bag,Retail
+574,United States,Local,James Island,Ban,Bag,Retail
+575,United States,Local,Jamestown,Ban+Fee,Bag,Retail
+576,United States,Local,Jersey City,Ban,Bag,Retail
+577,United States,Local,Kennebunk,Ban,Bag,Retail
+578,United States,Local,Kermit,Ban+Fee,Bag,Retail
+579,United States,Local,Key Biscayne,Ban,EPS,Restaurant
+580,United States,Local,King City,Ban+Fee,Bag,Retail
+581,United States,Local,Kirkland,Ban+Fee,Bag,Retail
+582,United States,Local,Kodiak,Ban,Bag,Retail
+583,United States,Local,Lacey,Ban+Fee,Bag,Retail
+584,United States,Local,Lafayette,Ban,EPS,Restaurant
+585,United States,Local,Lafayette,Ban+Fee,Bag,Retail
+586,United States,Local,Laguna Beach,Ban,EPS,Restaurant
+587,United States,Local,Laguna Beach,Ban+Fee,Bag,Retail
+588,United States,Local,Laguna Hills,Ban,EPS,Government
+589,United States,Local,Laguna Vista,Ban+Fee,Bag,Retail
+590,United States,Local,Laguna Woods,Ban,All Polystyrene,Restaurant
+591,United States,Local,Lake Oswego,Ban+Fee,Bag,Retail
+592,United States,Local,Lambertville,Ban,Bag,Retail
+593,United States,Local,Larchmont,Ban,Bag,Retail
+594,United States,Local,Laredo,Ban+Fee,Bag,Retail
+595,United States,Local,Larkspur,Ban+Fee,Bag,Retail
+596,United States,Local,Lee,Ban,Bag,Retail
+597,United States,Local,Lee,Ban,EPS,Restaurant
+598,United States,Local,Lenox,Ban,Bag,"Retail, Restaurant"
+599,United States,Local,Lenox,Ban,EPS,Restaurant
+600,United States,Local,Lewisboro,Ban+Fee,Bag,Retail
+601,United States,Local,Lexington,Ban,Bag,Retail
+602,United States,Local,Lexington,Ban,EPS,Restaurant
+603,United States,Local,Lincoln,Ban,Bag,Retail
+604,United States,Local,link,Ban,Bag,Retail
+605,United States,Local,Livermore,Ban,EPS,Restaurant
+606,United States,Local,Livermore,Ban+Fee,Bag,Retail
+607,United States,Local,Long Beach,Ban,All Polystyrene,"Restaurant, Retail"
+608,United States,Local,Long Beach,Ban,Bag,Retail
+609,United States,Local,Long Beach,Ban+Fee,Bag,Retail
+610,United States,Local,Long Beach,Fee,Bag,Retail
+612,United States,Local,Longmeadow,Ban,Bag,Retail
+613,United States,Local,Longport,Fee,Bag,Retail
+614,United States,Local,Los Altos,Ban,EPS,Restaurant
+615,United States,Local,Los Altos,Ban+Fee,Bag,Retail
+616,United States,Local,Los Altos Hills,Ban,EPS,Government
+617,United States,Local,Los Angeles,Ban+Fee,Bag,Retail
+618,United States,Local,Los Angeles City,Ban,EPS,Government
+619,United States,Local,Los Angeles County (unincorporated areas),Ban+Fee,Bag,Retail
+620,United States,Local,Los Gatos,Ban,EPS,"Restaurant, Retail"
+621,United States,Local,Los Gatos,Ban+Fee,Bag,Retail
+622,United States,Local,Lowell,Ban,Bag,Retail
+623,United States,Local,Lunenberg,Ban,Bag,"Retail, Restaurant"
+624,United States,Local,Lynn,Ban,Bag,"Retail, Restaurant"
+625,United States,Local,Malden,ban,Bag,Retail
+626,United States,Local,Malibu,Ban,Bag,"Retail, Restaurant"
+627,United States,Local,Malibu,Ban,EPS,"Restaurant, Retail"
+629,United States,Local,Mamaroneck,Ban,Bag,Retail
+630,United States,Local,Mammoth Lakes,Ban+Fee,Bag,Retail
+631,United States,Local,Manchester,Ban,Bag,Retail
+632,United States,Local,Manchester,Ban,EPS,Restaurant
+633,United States,Local,Manchester-by-the-Sea,Ban,Bag,Retail
+634,United States,Local,Manhattan Beach,Ban,Bag,Retail
+635,United States,Local,Manhattan Beach,Ban,EPS,Restaurant
+637,United States,Local,Mansfield,Ban,Bag,Retail
+638,United States,Local,Mansfield,Ban,Bag,"Retail, Restaurant"
+639,United States,Local,Manzanita,Ban,Bag,Retail
+640,United States,Local,Marblehead,Ban,Bag,Retail
+641,United States,Local,Marblehead,Ban,EPS,Restaurant
+642,United States,Local,Marin County,Ban+Fee,Bag,Retail
+643,United States,Local,Marina,Ban,EPS,Restaurant
+644,United States,Local,Marina,Ban+Fee,Bag,Retail
+645,United States,Local,Marshfield,Ban,Bag,"Retail, Restaurant"
+646,United States,Local,Martinez,Ban,EPS,Restaurant
+647,United States,Local,Martinez,Ban+Fee,Bag,Retail
+648,United States,Local,Mashpee,Ban,Bag,"Retail, Restaurant"
+649,United States,Local,Maui,Ban,EPS,"Restaurant, Retail"
+650,United States,Local,McMinnville,Ban+Fee,Bag,Retail
+651,United States,Local,Medfield,Ban,Bag,Retail
+652,United States,Local,Medford,Ban,Bag,"Retail, Restaurant"
+653,United States,Local,Melrose,Ban,Bag,"Retail, Restaurant"
+654,United States,Local,Mendocino County (unincorporated areas),Ban+Fee,Bag,"Retail, Restaurant"
+655,United States,Local,Menlo Park,Ban,EPS,Restaurant
+656,United States,Local,Menlo Park,Ban+Fee,Bag,Retail
+657,United States,Local,Miami Beach,Ban,EPS,Restaurant
+659,United States,Local,Middletown,Ban+Fee,Bag,Retail
+660,United States,Local,Mill Valley,Ban,EPS,Restaurant
+661,United States,Local,Mill Valley,Ban+Fee,Bag,Retail
+662,United States,Local,Millbrae,Ban,EPS,Restaurant
+663,United States,Local,Millbrae,Ban+Fee,Bag,Retail
+664,United States,Local,Milpitas,Ban,EPS,Government
+665,United States,Local,Milpitas,Ban+Fee,Bag,Retail
+666,United States,Local,Milton,Ban,Bag,"Retail, Restaurant"
+667,United States,Local,Milwaukie,Ban,Bag,Retail
+668,United States,Local,Minneapolis,Ban+Fee,Bag,Retail
+669,United States,Local,Moab,Ban,Bag,Retail
+670,United States,Local,Monmouth Beach,Ban,Bag,Retail
+672,United States,Local,Monrovia,Ban,EPS,Restaurant
+673,United States,Local,Monrovia,Ban+Fee,Bag,Retail
+675,United States,Local,Monterey,Ban+Fee,Bag,Retail
+676,United States,Local,Monterey City,Ban,EPS,Restaurant
+677,United States,Local,Morgan Hill,Ban,EPS,"Restaurant, Retail"
+678,United States,Local,Morgan Hill,Ban+Fee,Bag,Retail
+679,United States,Local,Morro Bay,Ban,EPS,"Restaurant, Retail"
+680,United States,Local,Morro Bay,Ban+Fee,Bag,Retail
+681,United States,Local,Mount Pleasant,Ban,Bag,Retail
+683,United States,Local,Mountain View,Ban,EPS,Restaurant
+684,United States,Local,Mountain View,Ban+Fee,Bag,Retail
+685,United States,Local,Mukilteo,Ban,Bag,Retail
+686,United States,Local,Nantucket,Ban,Bag,Retail
+687,United States,Local,Nantucket,Ban,EPS,Restaurant
+688,United States,Local,Napa,Ban+Fee,Bag,Retail
+689,United States,Local,Napa County,Ban+Fee,Bag,Retail
+690,United States,Local,Narberth,Fee,Bag,Retail
+691,United States,Local,Narragansett Bay,Ban+Fee,Bag,Retail
+692,United States,Local,Nassau County,Ban,EPS,Retail
+693,United States,Local,Natick,Ban,All Polystyrene,Restaurant
+694,United States,Local,Natick,Ban,Bag,"Retail, Restaurant"
+695,United States,Local,Nevada City,Ban+Fee,Bag,Retail
+696,United States,Local,New Britain,Ban+Fee,Bag,Retail
+697,United States,Local,New Canaan,Ban+Fee,Bag,Retail
+698,United States,Local,New Castle,Ban+Fee,Bag,Retail
+699,United States,Local,New Paltz,Ban,Bag,Retail
+700,United States,Local,New Shoreham,Ban,Bag,Retail
+701,United States,Local,New York,Fee,Bag,Retail
+702,United States,Local,New York City,Ban,EPS,Restaurant
+703,United States,Local,Newark,Ban+Fee,Bag,Retail
+704,United States,Local,Newburyport,Ban,Bag,Retail
+705,United States,Local,Newcastle,Ban,Bag,Retail
+706,United States,Local,Newport,Ban+Fee,Bag,Retail
+707,United States,Local,Newport Beach,Ban,EPS,Restaurant
+708,United States,Local,Newton,Ban,Bag,"Retail, Restaurant"
+709,United States,Local,Newton,ban,EPS,Restaurant
+710,United States,Local,North Attleborough,ban,Bag,Retail
+711,United States,Local,North Bay Village,Ban,EPS,Restaurant
+712,United States,Local,North Kingston,Ban,Bag,Retail
+713,United States,Local,Northampton,Ban,Bag,"Retail, Restaurant"
+714,United States,Local,Northborough,Ban,Bag,"Retail, Restaurant"
+715,United States,Local,Northborough,Ban,EPS,Restaurant
+716,United States,Local,Norwalk,Ban+Fee,Bag,Retail
+717,United States,Local,Norwell,Ban,Bag,"Retail, Restaurant"
+718,United States,Local,Novato,Ban,EPS,Restaurant
+719,United States,Local,Novato,Ban+Fee,Bag,Retail
+720,United States,Local,Oak Bluffs,Ban,Bag,"Retail, Restaurant"
+721,United States,Local,Oakland,Ban,EPS,"Restaurant, Retail"
+722,United States,Local,Oakland,Ban+Fee,Bag,Retail
+723,United States,Local,Oceanside,Ban+Fee,Bag,Retail
+724,United States,Local,Ojai,Ban,EPS,Government
+725,United States,Local,Ojai,Ban+Fee,Bag,Retail
+726,United States,Local,Olympia,Ban+Fee,Bag,Retail
+727,United States,Local,Orleans,Ban,Bag,"Retail, Restaurant"
+728,United States,Local,Orleans,Ban,EPS,Restaurant
+729,United States,Local,Pacific Grove,Ban,EPS,Restaurant
+730,United States,Local,Pacific Grove,Ban+Fee,Bag,Retail
+731,United States,Local,Pacifica,Ban,EPS,"Restaurant, Retail"
+733,United States,Local,Pacifica,Ban+Fee,Bag,Retail
+734,United States,Local,Palm Desert,Ban+Fee,Bag,Retail
+735,United States,Local,Palm Springs,Ban+Fee,Bag,Retail
+736,United States,Local,Palmer,Ban,Bag,Retail
+737,United States,Local,Palo Alto,Ban,EPS,"Restaurant, Retail"
+738,United States,Local,Palo Alto,Ban+Fee,Bag,"Retail, Restaurant"
+739,United States,Local,Park City,Ban,Bag,Retail
+740,United States,Local,Pasadena,Ban,All Polystyrene,"Restaurant, Retail"
+741,United States,Local,Pasadena,Ban+Fee,Bag,Retail
+742,United States,Local,Paso Robles,Ban+Fee,Bag,Retail
+743,United States,Local,Patchogue,Ban+Fee,Bag,Retail
+744,United States,Local,Pembroke,Ban,Bag,"Retail, Restaurant"
+745,United States,Local,Petaluma,Ban+Fee,Bag,Retail
+746,United States,Local,Pico Rivera,Ban+Fee,Bag,Retail
+747,United States,Local,Piedmont,Ban+Fee,Bag,Retail
+748,United States,Local,Pismo Beach,Ban,EPS,Government
+749,United States,Local,Pismo Beach,Ban+Fee,Bag,Retail
+750,United States,Local,Pittsburg,Ban,EPS,Restaurant
+751,United States,Local,Pittsburg,Ban+Fee,Bag,Retail
+752,United States,Local,Pittsfield,Ban,Bag,"Retail, Restaurant"
+753,United States,Local,Pittsfield,Ban,EPS,Restaurant
+754,United States,Local,Plainville,ban,Bag,Retail
+755,United States,Local,Pleasant Hill,Ban+Fee,Bag,Retail
+756,United States,Local,Pleasanton,Ban,EPS,Restaurant
+757,United States,Local,Pleasanton,Ban+Fee,Bag,Retail
+758,United States,Local,Pleasantville,Ban+Fee,Bag,Retail
+759,United States,Local,Plymouth,Ban,Bag,"Retail, Restaurant"
+760,United States,Local,Point Pleasant Beach,Ban,Bag,Retail
+761,United States,Local,Port Aransas,Ban+Fee,Bag,Retail
+762,United States,Local,Port Royal,Ban,Bag,Retail
+763,United States,Local,Port Townsend,Ban+Fee,Bag,Retail
+764,United States,Local,Portland,Ban,Bag,Restaurant
+765,United States,Local,Portland,Ban,Bag,Retail
+766,United States,Local,Portland,Ban,EPS,Restaurant
+768,United States,Local,Portland,Fee,Bag,Retail
+769,United States,Local,Portola Valley,Ban,EPS,Government
+770,United States,Local,Portola Valley,Ban+Fee,Bag,Retail
+771,United States,Local,Portsmouth,Ban,Bag,Retail
+772,United States,Local,Provincetown,Ban,All Polystyrene,"Retail, Restaurant"
+773,United States,Local,Provincetown,Ban,Bag,"Retail, Restaurant"
+774,United States,Local,Provincetown,ban,EPS,Restaurant
+776,United States,Local,Quil Ceda,Ban,Bag,Retail
+777,United States,Local,Rahway,Ban,All Polystyrene,Restaurant
+778,United States,Local,Rancho Cucamonga,Ban,EPS,Restaurant
+779,United States,Local,Reading,Ban,Bag,"Retail, Restaurant"
+780,United States,Local,Red Bank,Ban,EPS,"Restaurant, Retail"
+781,United States,Local,Redwood City,Ban,EPS,"Restaurant, Retail"
+782,United States,Local,Redwood City,Ban+Fee,Bag,Retail
+783,United States,Local,Revere,ban,Bag,Retail
+784,United States,Local,Richmond,Ban,EPS,Restaurant
+785,United States,Local,Richmond,Ban+Fee,Bag,Retail
+786,United States,Local,Rockland,Ban,Bag,Retail
+787,United States,Local,Rockport,Ban,Bag,"Retail, Restaurant"
+788,United States,Local,Rohnert Park,Ban+Fee,Bag,Retail
+789,United States,Local,Ross,Ban+Fee,Bag,Retail
+790,United States,Local,Rye,Ban,Bag,Retail
+791,United States,Local,Rye Brook,Ban+Fee,Bag,Retail
+792,United States,Local,Saco,Ban,Bag,Retail
+793,United States,Local,Sacramento,Ban+Fee,Bag,Retail
+794,United States,Local,Sacramento County,Ban+Fee,Bag,Retail
+795,United States,Local,Salem,Ban,Bag,"Retail, Restaurant"
+796,United States,Local,Salem,Ban+Fee,Bag,Retail
+797,United States,Local,Salinas,Ban,EPS,Restaurant
+798,United States,Local,Salinas,Ban+Fee,Bag,Retail
+799,United States,Local,San Anselmo,Ban+Fee,Bag,Retail
+800,United States,Local,San Bruno,Ban,EPS,Restaurant
+801,United States,Local,San Bruno,Ban+Fee,Bag,Retail
+802,United States,Local,San Carlos,Ban,EPS,Restaurant
+803,United States,Local,San Carlos,Ban+Fee,Bag,Retail
+804,United States,Local,San Clemente,Ban,EPS,"Restaurant, Retail"
+805,United States,Local,San Diego,Ban,EPS,"Restaurant, Retail"
+806,United States,Local,San Diego,Ban+Fee,Bag,Retail
+807,United States,Local,San Francisco,Ban+Fee,Bag,"Retail, Restaurant"
+808,United States,Local,San Francisco County,Ban,EPS,Restaurant
+810,United States,Local,San Jose,Ban,EPS,Government
+811,United States,Local,San Jose,Ban+Fee,Bag,Retail
+812,United States,Local,San Juan Capistrano,Ban,EPS,Restaurant
+813,United States,Local,San Juan County,Ban,EPS,Restaurant
+814,United States,Local,San Leandro,Ban,EPS,"Restaurant, Retail"
+815,United States,Local,San Leandro,Ban+Fee,Bag,Retail
+816,United States,Local,San Luis Obispo,Ban,EPS,Restaurant
+817,United States,Local,San Luis Obispo,Ban+Fee,Bag,Retail
+819,United States,Local,San Luis Obispo County (unincorporated areas),Ban+Fee,Bag,Retail
+820,United States,Local,San Marcos,Ban,EPS,"city parks, rivers"
+821,United States,Local,San Mateo,Ban+Fee,Bag,Retail
+822,United States,Local,San Mateo (City),Ban,EPS,Restaurant
+823,United States,Local,San Pablo,Ban,EPS,Restaurant
+824,United States,Local,San Pablo,Ban+Fee,Bag,Retail
+825,United States,Local,San Rafael,Ban,EPS,Restaurant
+826,United States,Local,San Rafael,Ban+Fee,Bag,Retail
+827,United States,Local,Sandwich,Ban,Bag,"Retail, Restaurant"
+829,United States,Local,Santa Barbara City,Ban+Fee,Bag,Retail
+830,United States,Local,Santa Clara (City),Ban,EPS,Restaurant
+831,United States,Local,Santa Clara City,Ban+Fee,Bag,Retail
+832,United States,Local,Santa Clara County (unincorporated areas),Ban+Fee,Bag,Retail
+834,United States,Local,Santa Cruz (City),Ban,EPS,"Restaurant, Retail"
+835,United States,Local,Santa Cruz City,Ban+Fee,Bag,Retail
+836,United States,Local,Santa Cruz County (unincorporated areas),Ban+Fee,Bag,"Retail, Restaurant"
+837,United States,Local,Santa Fe,Ban+Fee,Bag,Retail
+838,United States,Local,Santa Monica,Ban,EPS,Restaurant
+840,United States,Local,Santa Monica,Ban+Fee,Bag,Retail
+841,United States,Local,Santa Rosa,Ban+Fee,Bag,Retail
+842,United States,Local,Saugus,Ban,Bag,"Retail, Restaurant"
+843,United States,Local,Saugus,ban,EPS,Restaurant
+844,United States,Local,Sausalito,Ban,EPS,Restaurant
+845,United States,Local,Sausalito,Ban+Fee,Bag,Retail
+846,United States,Local,Scituate,Ban,Bag,"Retail, restaurants"
+847,United States,Local,Scotts Valley,Ban,EPS,Restaurant
+848,United States,Local,Sea Cliff,Ban+Fee,Bag,Retail
+850,United States,Local,Seaside,Ban,EPS,Restaurant
+851,United States,Local,Seaside,Ban+Fee,Bag,Retail
+852,United States,Local,Seattle,Ban,EPS,Restaurant
+854,United States,Local,Seattle,Ban+Fee,Bag,Retail
+855,United States,Local,Sebastopol,Ban+Fee,Bag,Retail
+856,United States,Local,Sharon,Ban,Bag,Retail
+857,United States,Local,Shoreline,Ban+Fee,Bag,Retail
+858,United States,Local,Shrewsbury,Ban,Bag,"Retail, Restaurant"
+859,United States,Local,Shrewsbury,Ban,EPS,Restaurant
+860,United States,Local,Silver City,Ban+Fee,Bag,Retail
+861,United States,Local,Silverton,Ban+Fee,Bag,Retail
+862,United States,Local,Snohomish,Ban+Fee,Bag,Retail
+863,United States,Local,Solana Beach,Ban,EPS,Government
+864,United States,Local,Solana Beach,Ban+Fee,Bag,Retail
+865,United States,Local,Soledad,Ban+Fee,Bag,Retail
+866,United States,Local,Somers Point,Fee,Bag,Retail
+867,United States,Local,Somerville,Ban,Bag,"Retail, Restaurant"
+868,United States,Local,Somerville,Ban,EPS,Restaurant
+869,United States,Local,Sonoma (City),Ban,EPS,Government
+870,United States,Local,Sonoma City,Ban+Fee,Bag,Retail
+871,United States,Local,Sonoma County,Ban+Fee,Bag,Retail
+872,United States,Local,South Hadley,Ban,Bag,"Retail, Restaurant"
+873,United States,Local,South Hadley,Ban,EPS,Restaurant
+874,United States,Local,South Kingstown,Ban,Bag,Retail
+875,United States,Local,South Lake Tahoe,Ban,All polystyrene,"Restaurant, Retail"
+877,United States,Local,South Lake Tahoe,Ban+Fee,Bag,"Retail, Restaurant"
+878,United States,Local,South Orange,Ban,Bag,"Restaurant, Retail"
+879,United States,Local,South Padre Island,Ban+Fee,Bag,Retail
+880,United States,Local,South Pasadena,Ban,EPS,Restaurant
+881,United States,Local,South Pasadena,Ban+Fee,Bag,Retail
+882,United States,Local,South Portland,Ban,EPS,Restaurant
+883,United States,Local,South Portland,Fee,Bag,Retail
+884,United States,Local,South San Francisco,Ban,EPS,"Restaurant, Retail"
+885,United States,Local,South San Francisco,Ban+Fee,Bag,Retail
+886,United States,Local,Southampton,Ban,Bag,Retail
+887,United States,Local,Southampton,Ban,Bag,Retail
+888,United States,Local,Southbridge,ban,Bag,"Retail, Restaurant"
+889,United States,Local,Southwest Harbor,Ban,Bag,Retail
+890,United States,Local,Springfield,Ban,Bag,Retail
+891,United States,Local,St Helena,Ban+Fee,Bag,Retail
+892,United States,Local,St. Peterburg,Ban,EPS,Restaurant
+894,United States,Local,Stafford Township,Ban,Bag,Retail
+895,United States,Local,Stamford,Ban+Fee,Bag,Retail
+896,United States,Local,Steamboat Springs,Ban+Fee,Bag,Retail
+897,United States,Local,Stockbridge,Ban,Bag,"Retail, Restaurant"
+898,United States,Local,Stockbridge,Ban,EPS,Restaurant
+899,United States,Local,Stone Harbor,Ban,Bag,Retail
+900,United States,Local,Stonington,Ban,Bag,Retail
+901,United States,Local,Sudbury,Ban,Bag,"Retail, Restaurant"
+902,United States,Local,Sullivan’s Island,Ban,Bag,Retail
+903,United States,Local,Sunnyvale,Ban,EPS,Restaurant
+904,United States,Local,Sunnyvale,Ban+Fee,Bag,Retail
+905,United States,Local,Sunset Valley,Ban+Fee,Bag,Retail
+906,United States,Local,Surfside,ban,Bag,Retail
+907,United States,Local,Surfside,Ban,EPS,Restaurant
+908,United States,Local,Surfside Beach,Ban,Bag,Retail
+909,United States,Local,Swampscott,Ban,Bag,"Retail, Restaurant"
+910,United States,Local,Tacoma,Ban+Fee,Bag,Retail
+911,United States,Local,Teaneck,Fee,Bag,Retail
+912,United States,Local,Telluride,Ban,Bag,Retail
+913,United States,Local,Tewksbury,Ban,Bag,"Retail, Restaurant"
+914,United States,Local,Tiburon,Ban+Fee,Bag,Retail
+915,United States,Local,Tisbury,Ban,Bag,"Retail, Restaurant"
+916,United States,Local,Topsfield,Ban,Bag,"Retail, Restaurant"
+917,United States,Local,Topsham,Ban,EPS,"Restaurant, Retail"
+918,United States,Local,Topsham,Fee,Bag,Retail
+919,United States,Local,Townsend,Ban,Bag,Retail
+920,United States,Local,Truckee,Ban+Fee,Bag,Retail
+921,United States,Local,Truro,Ban,Bag,"Retail, Restaurant"
+922,United States,Local,Tumwater,Ban+Fee,Bag,Retail
+923,United States,Local,Tyngsborough,Ban,Bag,Retail
+924,United States,Local,Ukiah,Ban,EPS,Restaurant
+925,United States,Local,Ukiah,Ban+Fee,Bag,Retail
+926,United States,Local,Unalaska,Ban,Bag,Retail
+927,United States,Local,Union City,Ban,EPS,Government
+928,United States,Local,Union City,Ban+Fee,Bag,Retail
+929,United States,Local,Vail,Ban+Fee,Bag,Retail
+930,United States,Local,Ventnor,Fee,Bag,Retail
+931,United States,Local,Vermont,ban,bag,Retail
+932,United States,Local,Wakefield,Ban,Bag,"Retail, Restaurant"
+933,United States,Local,Walnut Creek,Ban,All Polystyrene,"Restaurant, Retail"
+934,United States,Local,Walnut Creek,Ban+Fee,Bag,"Retail, Restaurant"
+935,United States,Local,Warren,Ban,Bag,Retail
+936,United States,Local,"Washington, D.C.",Ban,EPS,Restaurant
+937,United States,Local,"Washington, D.C.",Fee,Bag,Retail
+938,United States,Local,Wasilla,Ban,Bag,Retail
+939,United States,Local,Watertown,Ban,Bag,"Retail, Restaurant"
+940,United States,Local,Watsonville,Ban,EPS,Restaurant
+941,United States,Local,Watsonville,Ban+Fee,Bag,Retail
+942,United States,Local,Wayland,Ban,Bag,"Retail, Restaurant"
+943,United States,Local,Wayland,Ban,EPS,Restaurant
+944,United States,Local,Wellesley,Ban,Bag,"Retail, Restaurant"
+945,United States,Local,Wellfleet,Ban,Bag,"Retail, Restaurant"
+946,United States,Local,Wellfleet,Ban,EPS,Restaurant
+947,United States,Local,West Chester,Ban,Bag,"Restaurant, Retail"
+948,United States,Local,West Hollywood,Ban,All Polystyrene,Restaurant
+949,United States,Local,West Hollywood,Ban+Fee,Bag,Retail
+950,United States,Local,West Tisbury,Ban,Bag,"Retail, Restaurant"
+951,United States,Local,Westborough,Ban,Bag,"Retail, Restaurant"
+952,United States,Local,Westfield,Ban,EPS,Restaurant
+953,United States,Local,Westford,Ban,Bag,"Retail, Restaurant"
+954,United States,Local,Westford,Ban,EPS,"Restaurant, Government"
+955,United States,Local,Weston,Ban,Bag,"Retail, Restaurant"
+956,United States,Local,Weston,Ban+Fee,Bag,Retail
+957,United States,Local,Westport,Ban,Bag,Retail
+958,United States,Local,Williamstown,Ban,Bag,"Retail, Restaurant"
+959,United States,Local,Williamstown,Ban,EPS,Restaurant
+960,United States,Local,Wilmington,Ban,Bag,"Retail, Restaurant"
+961,United States,Local,Winchester,Ban,Bag,"Retail, Restaurant"
+962,United States,Local,Windham,Ban,Bag,Retail
+963,United States,Local,Windsor,Ban+Fee,Bag,Retail
+964,United States,Local,Winthrop,ban,Bag,Retail
+965,United States,Local,Winthrop,Ban,EPS,Restaurant
+966,United States,Local,Woburn,ban,bag,"Retail, Restaurant"
+967,United States,Local,Worcester,ban/fee hybrid,Bag,Retail
+968,United States,Local,Wrentham,ban,bag,Retail
+969,United States,Local,Yarmouth,Ban,Bag,"Retail, Restaurant"
+970,United States,Local,York,Ban,Bag,Retail
+971,United States,Local,Yountville,Ban,EPS,Restaurant
+972,United States,National,United States,Ban,Microbead,"Retail, Manufacture, Distribution, Import"
+974,United States,State,California State*,Ban+Fee,Bag,Retail
+975,United States,State,Connecticut,ban,Bag,"Restaurant, Retail"
+976,United States,State,Illinois,Ban,Microbead,"Retail, Manufacture"
+977,United States,State,Maine,Ban,Bag,"Restaurant, Retail"
+978,United States,State,Maine,Ban,EPS,"Restaurant, Retail"
+979,United States,State,Maryland,Ban,EPS,"Restaurant, Retail"
+980,United States,State,New York,Ban,Bag,
+981,United States,State,Orange Village,ban,Bag,"Restaurant, Retail"
+982,United States,Territory,American Samoa,Ban,Bag,Retail
+983,United States,Territory,Guam,Ban,Bag,Retail
+984,United States,Territory,Northern Mariana Islands,Ban,Bag,Retail
+985,United States,Territory,Puerto Rico,Ban,Bag,Retail
+986,United States,Territory,U.S. Virgin Islands,Ban,Bag,Retail
+987,Uruguay,Local,Uruguay,Fee,Bag,Unknown
+988,Uzbekistan,National,Uzbekistan,Ban,Bag,Manufacture
+989,Vanuatu,National,Vanuatu,Ban,Bag,Unknown
+991,Vietnam,Local,Ho Chi Minh City,Ban,Bag,Unknown
+992,Vietnam,National,Vietnam,Fee,Bag,Retail
+993,Yemen,National,Yemen,Ban,Bag,Unknown
+994,Zimbabwe,National,Zimbabwe,Ban,Bag,Unknown
